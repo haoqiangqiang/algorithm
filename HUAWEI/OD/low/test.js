@@ -1,0 +1,1 @@
+console.log('01234567'.slice(0, 5));

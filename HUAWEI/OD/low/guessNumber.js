@@ -1,0 +1,3 @@
+function guessNumber(n, arr) {
+    
+}
